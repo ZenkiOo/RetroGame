@@ -2,6 +2,8 @@
 
 # AJS. Retro Game
 
+https://zenkioo.github.io/RetroGame/
+
 ###### tags: `netology` `advanced js`
 
 ## Предыстория
